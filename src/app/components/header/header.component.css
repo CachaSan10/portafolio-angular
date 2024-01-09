@@ -1,0 +1,14 @@
+.menu {
+    background-color: #020420;
+    position: fixed;
+    padding-top: 70px;   
+}
+
+.titulo-menu {
+    color: #107a10;
+    font-size: 40px;
+}
+
+.contendor-botones-menu{
+    display: flex;
+}
