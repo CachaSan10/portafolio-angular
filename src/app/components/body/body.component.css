@@ -1,0 +1,42 @@
+
+.contenedor-sobre-mi{
+    margin-top: 30px;
+}
+
+.foto-presentacion {
+    width: 60%;
+    height: auto;
+    border: 1px solid greenyellow;
+    justify-content: center;
+    display: block;
+    margin: auto;
+}
+
+@media  screen and (max-width: 758px) {
+    .foto-presentacion {
+        height: 500px;
+    }
+}
+
+.contenedor-presentacion-descripcion {
+    width: 90%;
+
+}
+
+.texto-presentacion {
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.tecnologia-contenedor{
+    margin-top: 30px;
+}
+
+.titulo-tecnologia{
+    display: flex;
+}
+
+.contenedor-titulo-tecnologia {
+    justify-content: center;
+    align-items: center;
+}

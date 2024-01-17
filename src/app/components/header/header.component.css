@@ -1,14 +1,9 @@
-.menu {
-    background-color: #020420;
-    position: fixed;
-    padding-top: 70px;   
+.navbar {
+    padding: 2rem;
+    background-color: #f5f6f7;
 }
 
-.titulo-menu {
-    color: #107a10;
-    font-size: 40px;
-}
-
-.contendor-botones-menu{
-    display: flex;
+.navbar-collapse {
+    align-items: center;
+    justify-content: space-between;
 }
