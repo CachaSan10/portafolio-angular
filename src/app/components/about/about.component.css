@@ -1,0 +1,23 @@
+.contenedor-sobre-mi{
+    margin-top: 60px;
+}
+
+.contenedor-foto-presentacion{
+    display: flex;
+    justify-content: center;
+}
+
+
+.foto-presentacion {
+    width: 350px;
+    height: auto;
+}
+.contenedor-presentacion-descripcion{
+    margin: 0 50px 0 0;
+}
+
+.texto-presentacion{
+    text-align: justify;
+    margin-top: 30px;
+    
+}
