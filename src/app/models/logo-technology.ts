@@ -1,6 +1,7 @@
 
 export class LogoTechnology {
     name!: string;
-    titleLogo!: string;
+    path!: string;
+    description!:string;
 }
 

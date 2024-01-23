@@ -1,0 +1,39 @@
+.tecnologia-contenedor{
+    border: 1px solid green;
+    margin: 50px 10px 0 10px ;
+    
+   
+}
+
+.titulo-tecnologia{
+    border: 1px solid green;
+   
+}
+
+.titulo-tecnologia-h{
+ min-height: 900px;
+  display: flex;
+  align-items: center;
+  margin: 0 10px 0 10px;
+}
+
+
+
+
+.imagenes-tecnologia{
+    display: inline-block;
+    margin: 40px 15px 30px 15px;
+    
+}
+
+.imagenes-tecnologia h3 {
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.imagen-tecnologia{
+    width: 70px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
